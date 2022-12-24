@@ -408,10 +408,10 @@ async def cb_handler(client: Client, query: CallbackQuery):
             parse_mode='html'
         )
     elif query.data == "about":
-        buttons= [[
+        buttons = [[
             InlineKeyboardButton('🤖 Updates', url='https://t.me/Hotstar_Movies_Com',
             InlineKeyboardButton('♥️ Source', callback_data='source')
-            ]],[[
+            ],[
             InlineKeyboardButton('🏠 Home', callback_data='start'),
             InlineKeyboardButton('🔐 Close', callback_data='close_data')
         ]]
