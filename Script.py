@@ -1,9 +1,9 @@
 class script(object):
     START_TXT = """𝙷𝙴𝙻𝙾 {},
-𝙼𝚈 𝙽𝙰𝙼𝙴 𝙸𝚂 <a href='https://t.me/Evil_emperor_bot'>𝙴𝚅𝙸𝙻-𝙴𝙼𝙿𝙴𝚁𝙾𝚁</a>, 𝙸 𝙲𝙰𝙽 𝙿𝚁𝙾𝚅𝙸𝙳𝙴 𝙼𝙾𝚅𝙸𝙴𝚂, 𝙹𝚄𝚂𝚃 𝙰𝙳𝙳 𝙼𝙴 𝚃𝙾 𝚈𝙾𝚄𝚁 𝙶𝚁𝙾𝚄𝙿 𝙰𝙽𝙳 𝙴𝙽𝙹𝙾𝚈 😍"""
+𝙼𝚈 𝙽𝙰𝙼𝙴 𝙸𝚂 <a href='https://t.me/rb_david_bot'>𝙳𝙰𝚅𝙸𝙳</a>, 𝙸 𝙲𝙰𝙽 𝙿𝚁𝙾𝚅𝙸𝙳𝙴 𝙼𝙾𝚅𝙸𝙴𝚂, 𝙹𝚄𝚂𝚃 𝙰𝙳𝙳 𝙼𝙴 𝚃𝙾 𝚈𝙾𝚄𝚁 𝙶𝚁𝙾𝚄𝙿 𝙰𝙽𝙳 𝙴𝙽𝙹𝙾𝚈 😍"""
     HELP_TXT = """𝙷𝙴𝚈 {}
 𝙷𝙴𝚁𝙴 𝙸𝚂 𝚃𝙷𝙴 𝙷𝙴𝙻𝙿 𝙵𝙾𝚁 𝙼𝚈 𝙲𝙾𝙼𝙼𝙰𝙽𝙳𝚂."""
-    ABOUT_TXT = """✯ 𝙼𝚈 𝙽𝙰𝙼𝙴: 𝙴𝚅𝙸𝙻-𝙴𝙼𝙿𝙴𝚁𝙾𝚁
+    ABOUT_TXT = """✯ 𝙼𝚈 𝙽𝙰𝙼𝙴: 𝙳𝙰𝚅𝙸𝙳
 ✯ 𝙲𝚁𝙴𝙰𝚃𝙾𝚁: <a href='https://t.me/balaSmurugan'>𝙱𝙰𝙻𝙰𝙼𝚄𝚁𝚄𝙶𝙰𝙽</a>
 ✯ 𝙻𝙸𝙱𝚁𝙰𝚁𝚈: 𝙿𝚈𝚁𝙾𝙶𝚁𝙰𝙼
 ✯ 𝙻𝙰𝙽𝙶𝚄𝙰𝙶𝙴: 𝙿𝚈𝚃𝙷𝙾𝙽 𝟹
@@ -11,16 +11,16 @@ class script(object):
 ✯ 𝙱𝙾𝚃 𝚂𝙴𝚁𝚅𝙴𝚁: 𝙷𝙴𝚁𝙾𝙺𝚄
 ✯ 𝙱𝚄𝙸𝙻𝙳 𝚂𝚃𝙰𝚃𝚄𝚂: v1.0.1 [ 𝙱𝙴𝚃𝙰 ]"""
     SOURCE_TXT = """<b>NOTE:</b>
-- Evil-emperor is not a open source project
+- David is not a open source project
 
 <b>DEVS:</b>
-- <a href=https://t.me/balaSmurugan>𝙴𝚅𝙸𝙻-𝙴𝙼𝙿𝙴𝚁𝙾𝚁</a>"""
+- <a href=https://t.me/balaSmurugan>Balamurugan</a>"""
     MANUELFILTER_TXT = """Help: <b>Filters</b>
 
 - Filter is the feature were users can set automated replies for a particular keyword and tessa will respond whenever a keyword is found the message
 
 <b>NOTE:</b>
-1. Evil-emperor should have admin privillage.
+1. David should have admin privillage.
 2. only admins can add filters in a chat.
 3. alert buttons have a limit of 64 characters.
 
@@ -31,11 +31,11 @@ class script(object):
 • /delall - <code>delete the whole filters in a chat (chat owner only)</code>"""
     BUTTON_TXT = """Help: <b>Buttons</b>
 
-- Eva Maria Supports both url and alert inline buttons.
+- David Supports both url and alert inline buttons.
 
 <b>NOTE:</b>
 1. Telegram will not allows you to send buttons without any content, so content is mandatory.
-2. Evil-emperor supports buttons with any telegram media type.
+2. David supports buttons with any telegram media type.
 3. Buttons should be properly parsed as markdown format
 
 <b>URL buttons:</b>
